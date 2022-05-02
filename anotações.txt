@@ -1,0 +1,15 @@
+# portas 
+* 20: FTP
+* 22: SSH
+* 25: SMTP
+* 53: DNS
+* 80: HTTP
+* 443: HTTPS
+
+exercicio final
+* 25 ou 465 ou 587: gmail, são Secure Socket Layer (SSL) e Transport security Layer (TSL)
+* O Apache se comunica na rede por meio do protocolo TCP/IP ou HTTP/S (Hyper Text Transfer Protocol Secure), que define como as mensagens são formatadas e transmitidas a partir de solicitações e comandos na porta 443
+* O MySQL usa a porta 3306 por padrão.
+
+
+https://www.w3schools.com/		aprender algumas tecnologias
